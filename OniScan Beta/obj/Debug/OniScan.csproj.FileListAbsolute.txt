@@ -1,7 +1,0 @@
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\spam\spam\bin\Debug\OniScan.exe.config
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\spam\spam\bin\Debug\OniScan.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\spam\spam\bin\Debug\OniScan.pdb
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\spam\spam\bin\Debug\Org.Mentalis.dll
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\spam\spam\bin\Debug\SocksWebProxy.dll
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\spam\spam\obj\Debug\OniScan.exe
-C:\Users\Admin\Documents\Visual Studio 2017\Projects\spam\spam\obj\Debug\OniScan.pdb
