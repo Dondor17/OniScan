@@ -11,3 +11,5 @@ Contact:
 
 dondor@protonmail.com
 dondor@xmpp.jp
+
+Projekt , Hodina PV 14.11 2017
